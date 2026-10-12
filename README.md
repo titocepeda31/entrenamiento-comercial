@@ -6,6 +6,7 @@ Manual de estudio para presentar servicios informáticos a negocios locales sin 
 1. [Cómo presentarme](fundamentos/01-presentacion.md)
 2. [P.E.S.A. y semáforo](fundamentos/02-pesa-y-semaforo.md)
 3. [The Mom Test aplicado](fundamentos/03-mom-test.md)
+   - [Tres preguntas clave para escuchar](fundamentos/05-tres-preguntas-clave.md)
 4. [Objeciones y compromisos](fundamentos/04-objeciones-y-compromisos.md)
 5. [Ferretería](simulaciones/01-ferreteria.md)
 6. [Peluquería](simulaciones/02-peluqueria.md)
